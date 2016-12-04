@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(0,0,0);
+}
+img{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+}
+button{
+    position: relative;
+    bottom: 300px;
+}
+#container{
+    text-align: center;
+}
+h1{
+    font-family: Arial;
+    color: rgb(66, 100, 89);
+}
+button{
+    background: darkblue;
+    width: 50px;
+    border-radius: 3px;
+    color: gray;
+}
+button:hover{
+    color: white;
+
+}
